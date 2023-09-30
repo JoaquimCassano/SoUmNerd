@@ -3,11 +3,14 @@
 
 - 🌱 I’m currently learning **NodeJS, Rust**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about: **python**
 
-- 📫 How to reach me **joaquim@cassano.com.br**
+- 📫 How to reach me: **joaquim@cassano.com.br**
 
-- ⚡ Fun fact **my favorite animal is armadillo**
+- ⚡ Fun fact: **my favorite animal is armadillo**
+
+- I'm a terrible front-end developer
+- I hate Windows 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
