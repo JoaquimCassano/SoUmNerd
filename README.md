@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Joaquim Santos</h1>
-<h3 align="center">A back-end python developer, with twelve years old</h3>
+<h3 align="center">A brazilian back-end python developer </h3>
 
-- 🌱 I’m currently learning **NodeJS, Rust**
+- 🌱 I’m currently learning **NodeJS, Rust, English**
 
 - 💬 Ask me about: **python**
 
 - 📫 How to reach me: **joaquim@cassano.com.br**
 
 - ⚡ Fun fact: **my favorite animal is armadillo**
+- I love AI, but I hate finetuning
 
 - I'm a terrible front-end developer
 - I hate Windows 
