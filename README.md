@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **my favorite animal is armadillo**
 - I love AI, but I hate finetuning
-
+- I'm twelve years old
 - I'm a terrible front-end developer
 - I hate Windows 
 
